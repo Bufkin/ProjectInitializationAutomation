@@ -5,7 +5,7 @@ create env vars :
 > Github token as      - "gt"
 ```
 
-### setup: 
+### setup:
 ```bash
 git clone "https://github.com/wikyprash/projectInitializerAutomation.git"
 cd projectInitializerAutomation

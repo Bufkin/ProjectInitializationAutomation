@@ -6,7 +6,7 @@ cd /d %~dp0
 
 If "%1"=="" (
     echo "error"
-) else ( 
+) else (
     if "%2"=="" (
         python remote.py %fn% %flag%
         ) else (
